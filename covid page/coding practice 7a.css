@@ -1,0 +1,79 @@
+.background {
+    background-color: wheat;
+    border-color: cadetblue;
+    border-width: 5px;
+    border-style: solid;
+}
+
+.para {
+    color: black;
+}
+
+.button {
+    background-color: blue;
+    color: white;
+}
+
+
+
+.covid {
+    margin: 10px;
+    background-color: aquamarine;
+    border-radius: 14px;
+}
+
+.symp {
+    padding: 5px;
+    color: black;
+    font-size: 20px;
+    margin-left: 5px;
+}
+
+.multi-image {
+    padding: 7px;
+    margin:7px;
+    background-color: green;
+    border-radius: 10px;
+}
+
+.doctor-ig {
+    background-color: palevioletred;
+    padding: 7px;
+    margin:7px;
+    border-radius: 10px;
+}
+
+.down-ig {
+    background-color: blueviolet;
+    padding: 7px;
+    margin:7px;
+    border-radius: 10px;
+}
+
+.ig-1{
+    padding:5px;
+    margin:5px;
+}
+
+.ig-2 {
+    padding:5px;
+    margin:5px;
+}
+
+.ig-3 {
+    padding:5px;
+    margin:5px;
+}
+
+.final {
+    background-color: brown;
+    margin: 15px;
+    border-radius: 10px;
+    padding: 8px;
+}
+
+.ig{
+    height: 60px;
+    margin-top: 6px;
+    margin-bottom: 8px;
+}
